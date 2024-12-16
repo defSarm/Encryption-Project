@@ -1,0 +1,6 @@
+the first known evidence of the use of cryptography (in some form) was found in an inscription carved around 1900 bc, in the main chamber of
+the tomb of the nobleman khnumhotep ii, in egypt. the scribe used some unusual hieroglyphic symbols here and there in place of more ordinary ones.
+the purpose was not to hide the message but perhaps to change its form in a way which would make it appear dignified. though the
+inscription was not a form of secret writing, but incorporated some sort of transformation of the original text, and is the oldest known text to
+do so. evidence of some use of cryptography has been seen in most major early civilizations. "arthshashtra", a classic work on statecraft written by kautalya,
+describes the espionage service in india and mentions giving assignments to spies in "secret writing" - sounds like an ancient version of james bond? 
